@@ -1,0 +1,3 @@
+../public/apk/id.apk
+../public/apk/id.png
+../public/xml/id.xml
